@@ -1,18 +1,17 @@
-# react-webpack4-babel7-jquery
+# react16.8-webpack4
 
 React16 Webpack4 快速建立環境
 
 ## Features 特色
 
-* React 16
+* React 16.8
 * Webpack 4
 * Babel 7
-* jquery
 
 
 ## Installation 如何安裝
 
-* cd Webpack4-React-Jquery-ENV 
+* cd  floder
 * npm install
 * npm start
 * see `http://localhost:8080/`
